@@ -1,4 +1,4 @@
-# MPI_communication_performance
+# MPI-communication-performance
 MPIの通信性能を計測する．
 
 ## License
